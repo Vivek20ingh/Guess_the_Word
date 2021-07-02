@@ -1,12 +1,23 @@
 {
   "name": "scramble-word",
   "version": "1.0.0",
-  "description": "",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vivek20ingh/Guess_the_Word.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vivek20ingh/Guess_the_Word/issues"
+  },
+  "homepage": "https://github.com/Vivek20ingh/Guess_the_Word#readme",
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
